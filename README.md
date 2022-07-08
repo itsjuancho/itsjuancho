@@ -19,7 +19,7 @@ Desarrollador de software y analista de sistemas informáticos. A lo largo de mi
 
 Estoy abierto a las oportunidades que me permitan crecer de manera profesional y humana, permitiendo aportar todo mi potencial. 
 
-¿Te interesa que conversemos? ¡Hagámoslo! 🙌
+¿Te interesa mi talento? ¡Conversemos! 🙌
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jandresp/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jandres.perezt@gmail.com)
 
